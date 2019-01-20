@@ -1,8 +1,9 @@
+**/.ipynb_checkpoints
+*.pdf
+*.pptx
+*.docx
+*.prt
+
 Cuarto*Semestre/Evidencias
 Cuarto*Semestre/8.-*Bailes*Latinos
 Cuarto*Semestre/7.-*Poesia
-**/.ipynb_checkpoints
-**/*.pdf
-**/*.pptx
-**/*.docx
-**/*.prt
